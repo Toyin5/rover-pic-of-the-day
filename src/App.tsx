@@ -1,4 +1,5 @@
 import Display from "./Display"
+import Footer from "./Footer"
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
        * Other for selecting calendar
        */}
       <Display />
+      <Footer />
     </div>
   )
 }
